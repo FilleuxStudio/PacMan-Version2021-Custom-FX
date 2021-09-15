@@ -1,6 +1,9 @@
 <p align="center">
   <img alt="PacMan Version 2021" src="https://www.filleuxstudio.fr/img/portfolio/P4.png"/>
-  <h1>PacMan-Version2021-Custom-FX</h1>
+  <h1 align="center">PacMan-Version2021-Custom-FX</h1>
+  <p align="center">
+    <a href="https://www.gnu.org/licenses/copyleft.fr.html"><img alt="License" src="https://img.shields.io/static/v1?label=COPYLEFT&message=ok&color=blue"></a>
+  </p>
 </p>
 
 # Projet Unity PacMan Version 3D 2021
