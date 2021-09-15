@@ -2,7 +2,7 @@
   <img alt="PacMan Version 2021" src="https://www.filleuxstudio.fr/img/portfolio/P4.png"/>
   <h1 align="center">PacMan-Version2021-Custom-FX</h1>
   <p align="center">
-    <a href="https://www.gnu.org/licenses/copyleft.fr.html"><img alt="License" src="https://img.shields.io/static/v1?label=COPYLEFT&message=ok&color=blue"></a>
+    <a href="https://www.gnu.org/licenses/copyleft.fr.html"><img alt="License" src="https://img.shields.io/static/v1?label=COPYLEFT&message=2021&color=blue"></a>
   </p>
 </p>
 
