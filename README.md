@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="PacMan Version 2021" src="https://www.filleuxstudio.fr/img/portfolio/P4.png"/>
-  <h1 align="center">PacMan-Version2021-Custom-FX</h3>
+  <h1>PacMan-Version2021-Custom-FX</h1>
 </p>
 
 # Projet Unity PacMan Version 3D 2021
